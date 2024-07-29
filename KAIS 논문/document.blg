@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: document.aux
+The style file: unsrt.bst
+Database file #1: library.bib
+Repeated entry---line 618 of file library.bib
+ : @inproceedings{6040800
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 806 of file library.bib
+ : @inproceedings{6040800
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 850 of file library.bib
+ : @article{6365185
+ :                 ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Dallmann2017
+Warning--empty journal in Mirza2014
+You've used 36 entries,
+            1791 wiz_defined-function locations,
+            677 strings with 11840 characters,
+and the built_in function-call counts, 11958 in all, are:
+= -- 1142
+> -- 559
+< -- 23
++ -- 198
+- -- 162
+* -- 833
+:= -- 1762
+add.period$ -- 117
+call.type$ -- 36
+change.case$ -- 36
+chr.to.int$ -- 0
+cite$ -- 38
+duplicate$ -- 541
+empty$ -- 1030
+format.name$ -- 162
+if$ -- 2752
+int.to.chr$ -- 0
+int.to.str$ -- 36
+missing$ -- 36
+newline$ -- 183
+num.names$ -- 38
+pop$ -- 91
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 362
+stack$ -- 0
+substring$ -- 986
+swap$ -- 225
+text.length$ -- 23
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 125
+width$ -- 38
+write$ -- 421
+(There were 3 error messages)

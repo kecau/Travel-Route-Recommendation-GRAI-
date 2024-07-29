@@ -1,0 +1,253 @@
+\begin{thebibliography}{10}
+
+\bibitem{6040800}
+Fabiana Lorenzi, Stanley Loh, and Mara Abel.
+\newblock {PersonalTour: A Recommender System for Travel Packages}.
+\newblock In {\em 2011 IEEE/WIC/ACM International Conferences on Web
+  Intelligence and Intelligent Agent Technology}, volume~2, pages 333--336,
+  2011.
+
+\bibitem{6365185}
+Qi~Liu, Enhong Chen, Hui Xiong, Yong Ge, Zhongmou Li, and Xiang Wu.
+\newblock {A Cocktail Approach for Travel Package Recommendation}.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  26(2):278--293, 2014.
+
+\bibitem{7145457}
+Zhiwen Yu, Huang Xu, Zhe Yang, and Bin Guo.
+\newblock {Personalized Travel Package With Multi-Point-of-Interest
+  Recommendation Based on Crowdsourced User Footprints}.
+\newblock {\em IEEE Transactions on Human-Machine Systems}, 46(1):151--158,
+  2016.
+
+\bibitem{7536145}
+Chuan Shi, Yitong Li, Jiawei Zhang, Yizhou Sun, and Philip~S Yu.
+\newblock {A survey of heterogeneous information network analysis}.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  29(1):17--37, 2017.
+
+\bibitem{10.1145/2481244.2481248}
+Yizhou Sun and Jiawei Han.
+\newblock {Mining Heterogeneous Information Networks: A Structural Analysis
+  Approach}.
+\newblock {\em SIGKDD Explor. Newsl.}, 14(2):20--28, 2013.
+
+\bibitem{Begum2016}
+S.~Sheik~F. Begum, A.~Rajesh, and M.~Vinnarasi.
+\newblock {Meta path based Top-K Similarity join in heterogeneous information
+  networks}.
+\newblock {\em Journal of Chemical and Pharmaceutical Sciences},
+  9(4):2217--2220, 2016.
+
+\bibitem{Perozzi2014}
+Bryan Perozzi, Rami Al-Rfou, and Steven Skiena.
+\newblock {DeepWalk: Online learning of social representations}.
+\newblock {\em Proceedings of the ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining}, pages 701--710, 2014.
+
+\bibitem{10.1145/2939672.2939754}
+Aditya Grover and Jure Leskovec.
+\newblock {Node2vec: Scalable Feature Learning for Networks}.
+\newblock In {\em Proceedings of the 22nd ACM SIGKDD International Conference
+  on Knowledge Discovery and Data Mining}, KDD '16, pages 855--864, New York,
+  NY, USA, 2016. Association for Computing Machinery.
+
+\bibitem{Dong2017}
+Yuxiao Dong, Nitesh~V. Chawla, and Ananthram Swami.
+\newblock {Metapath2vec: Scalable representation learning for heterogeneous
+  networks}.
+\newblock {\em Proceedings of the ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining}, Part F1296:135--144, 2017.
+
+\bibitem{10.1145/3132847.3132953}
+Tao-yang Fu, Wang-Chien Lee, and Zhen Lei.
+\newblock {HIN2Vec: Explore Meta-Paths in Heterogeneous Information Networks
+  for Representation Learning}.
+\newblock In {\em Proceedings of the 2017 ACM on Conference on Information and
+  Knowledge Management}, CIKM '17, pages 1797--1806, New York, NY, USA, 2017.
+  Association for Computing Machinery.
+
+\bibitem{8355676}
+Chuan Shi, Binbin Hu, Wayne~Xin Zhao, and Philip~S Yu.
+\newblock {Heterogeneous Information Network Embedding for Recommendation}.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  31(2):357--370, 2019.
+
+\bibitem{Yu2018}
+Junliang Yu, Min Gao, Jundong Li, Hongzhi Yin, and Huan Liu.
+\newblock {Adaptive implicit friends identification over heterogeneous network
+  for social recommendation}.
+\newblock {\em International Conference on Information and Knowledge
+  Management, Proceedings}, pages 357--366, 2018.
+
+\bibitem{10.5555/3367471.3367571}
+Zekai Wang, Hongzhi Liu, Yingpeng Du, Zhonghai Wu, and Xing Zhang.
+\newblock {Unified Embedding Model over Heterogeneous Information Network for
+  Personalized Recommendation}.
+\newblock In {\em Proceedings of the 28th International Joint Conference on
+  Artificial Intelligence}, IJCAI'19, pages 3813--3819. AAAI Press, 2019.
+
+\bibitem{Zhao2020}
+Zhongying Zhao, Xuejian Zhang, Hui Zhou, Chao Li, Maoguo Gong, and Yongqing
+  Wang.
+\newblock {HetNERec: Heterogeneous network embedding based recommendation}.
+\newblock {\em Knowledge-Based Systems}, 204:106218, 2020.
+
+\bibitem{Liu2022}
+Jiawei Liu, Chuan Shi, Cheng Yang, Zhiyuan Lu, and Philip~S. Yu.
+\newblock {A survey on heterogeneous information network based recommender
+  systems: Concepts, methods, applications and resources}.
+\newblock {\em AI Open}, 3(March):40--57, 2022.
+
+\bibitem{Fan2019}
+Shaohua Fan, Chuan Shi, Linmei Hu, Junxiong Zhu, Biyu Ma, Xiaotian Han, and
+  Yongliang Li.
+\newblock {Metapath-guided heterogeneous graph neural network for intent
+  recommendation}.
+\newblock {\em Proceedings of the ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining}, pages 2478--2486, 2019.
+
+\bibitem{Sang2021}
+Lei Sang, Min Xu, Shengsheng Qian, Matt Martin, Peter Li, and Xindong Wu.
+\newblock {Context-Dependent Propagating-Based Video Recommendation in
+  Multimodal Heterogeneous Information Networks}.
+\newblock {\em IEEE Transactions on Multimedia}, 23:2019--2032, 2021.
+
+\bibitem{Lu2020}
+Yuanfu Lu, Yuan Fang, and Chuan Shi.
+\newblock {Meta-learning on Heterogeneous Information Networks for Cold-start
+  Recommendation}.
+\newblock {\em Proceedings of the ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining}, pages 1563--1573, 2020.
+
+\bibitem{10.1145/3465401}
+Shoujin Wang, Longbing Cao, Yan Wang, Quan~Z Sheng, Mehmet~A Orgun, and Defu
+  Lian.
+\newblock {A Survey on Session-Based Recommender Systems}.
+\newblock {\em ACM Comput. Surv.}, 54(7), 2021.
+
+\bibitem{Hidasi2016}
+Bal{\'{a}}zs Hidasi, Alexandros Karatzoglou, Linas Baltrunas, and Domonkos
+  Tikk.
+\newblock {Session-based recommendations with recurrent neural networks}.
+\newblock {\em 4th International Conference on Learning Representations, ICLR
+  2016 - Conference Track Proceedings}, pages 1--10, 2016.
+
+\bibitem{Tan2016}
+Yong~Kiam Tan, Xinxing Xu, and Yong Liu.
+\newblock {Improved recurrent neural networks for session-based
+  recommendations}.
+\newblock {\em ACM International Conference Proceeding Series},
+  15-Septemb:17--22, 2016.
+
+\bibitem{10.1145/3109859.3109896}
+Massimo Quadrana, Alexandros Karatzoglou, Bal{\'{a}}zs Hidasi, and Paolo
+  Cremonesi.
+\newblock {Personalizing Session-Based Recommendations with Hierarchical
+  Recurrent Neural Networks}.
+\newblock In {\em Proceedings of the Eleventh ACM Conference on Recommender
+  Systems}, RecSys '17, pages 130--137, New York, NY, USA, 2017. Association
+  for Computing Machinery.
+
+\bibitem{10.1145/3159652.3159727}
+Alex Beutel, Paul Covington, Sagar Jain, Can Xu, Jia Li, Vince Gatto, and Ed~H
+  Chi.
+\newblock {Latent Cross: Making Use of Context in Recurrent Recommender
+  Systems}.
+\newblock In {\em Proceedings of the Eleventh ACM International Conference on
+  Web Search and Data Mining}, WSDM '18, pages 46--54, New York, NY, USA, 2018.
+  Association for Computing Machinery.
+
+\bibitem{Hidasi2016a}
+Bal{\'{a}}zs Hidasi, Massimo Quadrana, Alexandros Karatzoglou, and Domonkos
+  Tikk.
+\newblock {Parallel recurrent neural network architectures for feature-rich
+  session-based recommendations}.
+\newblock {\em RecSys 2016 - Proceedings of the 10th ACM Conference on
+  Recommender Systems}, pages 241--248, 2016.
+
+\bibitem{Dallmann2017}
+Alexander Dallmann, Alexander Grimm, Christian P{\"{o}}litz, Daniel Zoller, and
+  Andreas Hotho.
+\newblock {Improving Session Recommendation with Recurrent Neural Networks by
+  Exploiting Dwell Time}.
+\newblock pages 1--6, 2017.
+
+\bibitem{NIPS2014_5ca3e9b1}
+Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+  Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock {Generative Adversarial Nets}.
+\newblock In Z~Ghahramani, M~Welling, C~Cortes, N~Lawrence, and K~Q Weinberger,
+  editors, {\em Advances in Neural Information Processing Systems}, volume~27.
+  Curran Associates, Inc., 2014.
+
+\bibitem{Wang2017}
+Jun Wang, Lantao Yu, Weinan Zhang, Yu~Gong, Yinghui Xu, Benyou Wang, Peng
+  Zhang, and Dell Zhang.
+\newblock {IRGAN: A minimax game for unifying generative and discriminative
+  information retrieval models}.
+\newblock {\em SIGIR 2017 - Proceedings of the 40th International ACM SIGIR
+  Conference on Research and Development in Information Retrieval}, pages
+  515--524, 2017.
+
+\bibitem{10.1145/3269206.3271743}
+Dong-Kyu Chae, Jin-Soo Kang, Sang-Wook Kim, and Jung-Tae Lee.
+\newblock {CFGAN: A Generic Collaborative Filtering Framework Based on
+  Generative Adversarial Networks}.
+\newblock In {\em Proceedings of the 27th ACM International Conference on
+  Information and Knowledge Management}, CIKM '18, pages 137--146, New York,
+  NY, USA, 2018. Association for Computing Machinery.
+
+\bibitem{Mirza2014}
+Mehdi Mirza and Simon Osindero.
+\newblock {Conditional Generative Adversarial Nets}.
+\newblock pages 1--7, 2014.
+
+\bibitem{Chae2019a}
+Dong~Kyu Chae, Jung~Ah Shin, and Sang~Wook Kim.
+\newblock {Collaborative Adversarial Autoencoders: An Effective Collaborative
+  Filtering Model under the GAN Framework}.
+\newblock {\em IEEE Access}, 7:37650--37663, 2019.
+
+\bibitem{Chae2019}
+Dong~Kyu Chae, Sang~Wook Kim, Jin~Soo Kang, and Jaeho Choi.
+\newblock {Rating augmentation with generative adversarial networks towards
+  accurate collaborative filtering}.
+\newblock {\em The Web Conference 2019 - Proceedings of the World Wide Web
+  Conference, WWW 2019}, pages 2616--2622, 2019.
+
+\bibitem{Wang2019}
+Qinyong Wang, Quoc Viet~Hung Nguyen, Hongzhi Yin, Zi~Huang, Hao Wang, and
+  Lizhen Cui.
+\newblock {Enhancing collaborative filtering with generative augmentation}.
+\newblock {\em Proceedings of the ACM SIGKDD International Conference on
+  Knowledge Discovery and Data Mining}, pages 548--556, 2019.
+
+\bibitem{5694074}
+Steffen Rendle.
+\newblock {Factorization Machines}.
+\newblock In {\em 2010 IEEE International Conference on Data Mining}, pages
+  995--1000, 2010.
+
+\bibitem{Guo2017}
+Huifeng Guo, Ruiming Tang, Yunming Ye, Zhenguo Li, and Xiuqiang He.
+\newblock {DeepFM: A factorization-machine based neural network for CTR
+  prediction}.
+\newblock {\em IJCAI International Joint Conference on Artificial
+  Intelligence}, 0:1725--1731, 2017.
+
+\bibitem{10.1145/3038912.3052569}
+Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, and Tat-Seng Chua.
+\newblock {Neural Collaborative Filtering}.
+\newblock In {\em Proceedings of the 26th International Conference on World
+  Wide Web}, WWW '17, pages 173--182, Republic and Canton of Geneva, CHE, 2017.
+  International World Wide Web Conferences Steering Committee.
+
+\bibitem{10.1145/3077136.3080777}
+Xiangnan He and Tat-Seng Chua.
+\newblock {Neural Factorization Machines for Sparse Predictive Analytics}.
+\newblock In {\em Proceedings of the 40th International ACM SIGIR Conference on
+  Research and Development in Information Retrieval}, SIGIR '17, pages
+  355--364, New York, NY, USA, 2017. Association for Computing Machinery.
+
+\end{thebibliography}
